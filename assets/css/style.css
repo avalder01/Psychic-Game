@@ -1,9 +1,34 @@
-header {
-    text-align: center
+
+.head {
+    color: white;
+    text-align: center;
 }
 
-body { 
-    background-color: aqua;
 
-    color: red;
+.header {
+    text-align: center;
+    color: white;
+}
+
+
+
+.imageWrapper{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    /* padding-left: 0%; */
+}
+
+
+.words{
+    margin-left: 330px;
+    color: white;
+
+}
+
+
+body {
+    background-image: url("../images/darkness.png");
+    color: white;
 }
